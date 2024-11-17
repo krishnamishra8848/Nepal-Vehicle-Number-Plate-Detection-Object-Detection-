@@ -17,6 +17,11 @@ The YOLO model used in this project is trained to detect vehicle number plates f
 ### Demo 3: Car License Plate Detection
 ![demo3](https://github.com/user-attachments/assets/721539a6-3ae2-4336-bbae-a09296b693e5)
 
+## Access the Model
+
+You can access the deployed model [here](https://nepal-vehicle-number-plate-detection.onrender.com/).
+
+
 ## Key Features
 
 - **Vehicle Types Supported**: This model can detect number plates from **bikes, cars, trucks, and buses** in images and video feeds, making it adaptable for various use cases such as traffic monitoring, parking management, and surveillance in Nepal.
